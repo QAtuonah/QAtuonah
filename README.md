@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm Christopher Atuonah (a.k.a QAtuonah)!
 
-<!--
-**QAtuonah/QAtuonah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **QA Analyst | Manual Testing Specialist | Deepening Skills in Automation, AI Testing, and Data Validation**
 
-Here are some ideas to get you started:
+With 6+ years of experience in software quality assurance, I've worked across the finance, automotive, and gaming industries — ensuring high-quality, reliable digital products. My core expertise lies in **manual testing**, where I’ve led test planning and execution. I'm currently transitioning into **test automation** and **AI/ML validation**, sharpening my skills in **Python, Selenium, and SQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I love learning, breaking things (intentionally 😄), and helping teams ship bug-free software.
+
+---
+
+## 📚 Featured Repositories
+
+- 🔹 [Test Automation with Python & Selenium](https://github.com/QAtuonah/Pythonium)
+- 🔹 [QA Knowledge Base – Notes & Glossaries](https://github.com/QAtuonah/QA-Knowledge)
+
+---
+
+## 📌 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-atuonah)
+- 🌐 [GitHub Portfolio](https://github.com/QAtuonah)
+
+---
+
+🔎 *Always exploring new tools, frameworks, and AI testing strategies to level up QA!*
