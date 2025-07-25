@@ -10,7 +10,9 @@ With 6+ years of experience in software quality assurance, I've worked across th
 
 ## 📚 Featured Repositories
 
+- 🔹 [Manual Tests/Knowledge](https://github.com/QAtuonah/Manual-Testing)
 - 🔹 [Test Automation with Python & Selenium](https://github.com/QAtuonah/Pythonium)
+- 🔹 [SQL Testing/Knowledge](https://github.com/QAtuonah/SQL-Testing)
 - 🔹 [QA Knowledge Base – Notes & Glossaries](https://github.com/QAtuonah/QA-Knowledge)
 
 ---
